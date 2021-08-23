@@ -1,1 +1,1 @@
-# image-finder-with-pagination
+# image-finder-with-infinite-scroll
